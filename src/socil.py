@@ -3,7 +3,7 @@ from random import randrange as rg
 
 print("""
 	[ SOCIOLLA OTP ]
-	   - noobie -
+	   - Reza -
 """)
 
 num=input("[In] Number: ")
