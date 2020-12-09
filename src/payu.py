@@ -30,9 +30,11 @@ class Payu:
 	def banner(self):
 #		os.system('clear')
 		print("""
-		;;;;;;;;;;;;;;;;;;;;;;;;
-		; SMS Gratis PayuTerus ;
-		;      - noobie -      ;
+		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+		
+		
+		; SMS Gratis Wae Nganggo Na ;
+		;      - Reza -      ;
 		;;;;;;;;;;;;;;;;;;;;;;;;
 		""")
 		no=input('[?] Nomor Target: ')
