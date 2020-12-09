@@ -1,8 +1,8 @@
 import requests,time
 
 print("""
-	[ MATAHARI MALL OTP ]
-	   -Asecx | noobie-
+	[ MATAHARI YANG PANAS ]
+	   -Asecx | Kamvret-
 """)
 
 no = input('ex : 08xx\n[In] Phone: ')
@@ -23,8 +23,8 @@ heder = {'Host': 'thor.matahari.com',
            'accept-encoding': 'gzip, deflate, br',
            'accept-language': 'id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7,ms;q=0.6'}
 
-data = {'emailAddress': 'noobie@mail.com',
-           'firstName': 'Noobie',
+data = {'emailAddress': 'rezahasyim24.com',
+           'firstName': 'Reza',
            'lastName': 'Gans',
            'mobileNumber': no,
            'mccCardNumber': '',
